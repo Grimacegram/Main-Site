@@ -1,0 +1,22 @@
+# mod_rewrite starts here 
+
+RewriteEngine on 
+
+# Does not apply to existing directories. DON'T RUN THE RULE!
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Check for file in dir with .html extension
+
+RewriteCond %{REQUEST_FILENAME}\.html -f
+
+# Page that shows the .html extension
+
+RewriteRule ^(.*)$ $1.html [NC,L]
+
+
+# PHP VERSION
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^(.*)$ $1.php [NC,L]
