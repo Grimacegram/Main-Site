@@ -1,0 +1,32 @@
+.login-bttn{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(71, 78, 185);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: rgb(86, 94, 219);
+    display: inline-block;
+}
+.signup-bttn{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(71, 78, 185);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: rgb(86, 94, 219);
+    display: inline-block;
+}
+.login-bttn:hover{
+    background-color: rgb(86, 94, 219);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: rgb(71, 78, 185);
+    transition: 10ms;
+}
+.signup-bttn:hover{
+    background-color: rgb(86, 94, 219);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: rgb(71, 78, 185);
+    transition: 10ms;
+}

@@ -1,0 +1,11 @@
+/* this stylesheet is for the preset of the site */
+
+body{
+    background-color: #181a2b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    color: rgb(216, 234, 250);
+    text-decoration: none;
+    list-style: none;
+}

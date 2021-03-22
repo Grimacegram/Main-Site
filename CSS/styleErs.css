@@ -1,0 +1,12 @@
+body{
+font-family :Tahoma, Geneva, sans-serif;
+}
+#httpErrs{
+    width: 600px;
+    min-height: 200px;
+    margin-right: 400px;
+   }
+   #errcon{
+       position: relative;
+       left: 30%;
+   }
