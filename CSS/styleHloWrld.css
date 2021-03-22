@@ -1,0 +1,61 @@
+#Hello-World-Title-Con{
+    min-width: 100%;
+    min-height: 200px;
+    background-color:#181a2b;
+}
+#Hello-World{
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 450px;
+    min-height: 200px;
+    background-color: #181a2b;
+}
+.hlowrld-text{
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: #8a8fa5;
+    position: absolute;
+    font-family: 'Jura', sans-serif;
+    left: 44%;
+    top: 100px;
+  /*  animation: helloWorld 2s; */
+    opacity: 1;
+    transition: 201ms;
+}
+#dived11q{
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 2px;
+    background-color: #8a8fa5;
+    position: absolute;
+  /*  animation: helloDivider 2s; */
+    top: 145px;
+    left: 43%;
+}
+/*
+@keyframes helloWorld{
+    from{
+       top: -8px; 
+    }
+    25%{
+        top: -4px;
+    }
+    to{
+        top: 0px;
+    }
+}
+@keyframes helloDivider{
+    from{
+        left: -100px;
+    }
+    25%{
+        left: 50px;
+    }
+    to{
+        left: 100px;
+    }
+}
+*/

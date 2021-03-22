@@ -1,0 +1,48 @@
+#topbar-con{
+    min-width:1396px;
+    height: 70px;
+    background-color:#1c1e31;
+    margin-top: -8px;
+    float: left;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #2c2d38;
+    margin-left: -8px;
+    clear: both;
+}
+#Top-Bar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30px;
+    clear: both;
+}
+#search-section{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 47px;
+    clear: both;
+}
+.search-bar{
+    width: 500px;
+    height: 30px;
+    color: black;
+    position: relative;
+    font-size: medium;
+    right: 40%;
+    top: -7px;
+}
+.search-bttn{
+    position: absolute;
+    left: 80%;
+    top: -7px;
+    height: 30px;
+    background-color: #3b3b3f;
+    
+}
+#upload{
+    position: absolute;
+    left: 200%;
+    top: -7px;
+}

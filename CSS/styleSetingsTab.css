@@ -1,0 +1,15 @@
+.light{
+    background-color: #181a2b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.green{
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cssChabge{
+    border: none;
+    border-width: 15px;
+    border-color: black;
+    background-color: green;
+    border-radius: 1000%;
+}
