@@ -1,0 +1,16 @@
+{
+    "webOptions": {
+    "baseUrl": "./",
+    "paths": {
+        "@JS/*": ["/JS/*"],
+        "@Styles/*": ["/CSS/*"],
+        "@API/*": ["/api/*"],
+        "@icons/*": ["/icons/*"],
+        "@noti/*": ["/JS/notifications/*"],
+        "@player/*": ["/JS/player/*"],
+        "@adPlayer/*": ["/JS/adPlayer"], 
+        "@modules/*": ["/modules/*"],
+        "@pageErrs/*": ["/page_errors/*"]
+    }
+}
+}
