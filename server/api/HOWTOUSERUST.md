@@ -2,7 +2,7 @@
 
 ### IF YOU ALREADY HAVE RUST/CARGO INSTALLED SKIP THIS SECTION.
 
-`unix`
+`Install Command Below`
 
 *curl https://sh.rustup.rs -sSf | sh*
 
