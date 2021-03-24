@@ -78,7 +78,7 @@ var ddup = {
     
    
     let xhr = new XMLHttpRequest();
-    xhr.open("POST", "dd-upload.php");
+    xhr.open("POST", "../studio/ddupl.php.php");
     xhr.onload = function () {
      
       ddup.hstat.innerHTML += `<div>${thisfile.name} - ${this.response}</div>`;
