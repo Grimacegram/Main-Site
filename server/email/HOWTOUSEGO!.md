@@ -1,4 +1,4 @@
-# INSTALLING GO (FOR DARWIN)
+# INSTALLING GO (FOR DARWIN or anyone else who wants to install it 🦖)
 
 [GO download](https://golang.org/doc/install "go dlnd")
 
