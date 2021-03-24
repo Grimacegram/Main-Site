@@ -21,13 +21,13 @@ now you can install the compile\degug packages.
 these do exactly how they sound
 
 
-### Cargo Build 
+# Cargo Build (Build Your Project)
 cargo build
 ---
-### Cargo Run 
+# Cargo Run (Run Your Project)
 cargo run
 ---
-### Cargo Test
+# Cargo Test (Test Your Project)
 cargo test
 ---
 # Cargo Doc (Build Documentation For Your Project)
